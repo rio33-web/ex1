@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @rio33-web
-- 👋 web coder (html, css(sass), jquery, wordpress)
+- 👋 * html, css(sass), jquery, wordpress
+- 👋 * wordpress-> original thema
+- 👋 * fictitious clinic
 
 
 <!---
